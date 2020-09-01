@@ -1,0 +1,14 @@
+C:\Users\HuyNef\Downloads\Reversi_AI\Reversi\Reversi\bin\Debug\Reversi.exe
+C:\Users\HuyNef\Downloads\Reversi_AI\Reversi\Reversi\bin\Debug\Reversi.pdb
+C:\Users\HuyNef\Downloads\Reversi_AI\Reversi\Reversi\obj\Debug\Reversi.csprojAssemblyReference.cache
+C:\Users\HuyNef\Downloads\Reversi_AI\Reversi\Reversi\obj\Debug\Reversi.Controls.BoardControl.resources
+C:\Users\HuyNef\Downloads\Reversi_AI\Reversi\Reversi\obj\Debug\Reversi.Controls.BoardFieldControl.resources
+C:\Users\HuyNef\Downloads\Reversi_AI\Reversi\Reversi\obj\Debug\Reversi.Forms.MainForm.resources
+C:\Users\HuyNef\Downloads\Reversi_AI\Reversi\Reversi\obj\Debug\Reversi.Controls.PlayerInfoControl.resources
+C:\Users\HuyNef\Downloads\Reversi_AI\Reversi\Reversi\obj\Debug\Reversi.Controls.PlayerPropertiesControl.resources
+C:\Users\HuyNef\Downloads\Reversi_AI\Reversi\Reversi\obj\Debug\Reversi.Forms.StartNewGameForm.resources
+C:\Users\HuyNef\Downloads\Reversi_AI\Reversi\Reversi\obj\Debug\Reversi.Properties.Resources.resources
+C:\Users\HuyNef\Downloads\Reversi_AI\Reversi\Reversi\obj\Debug\Reversi.csproj.GenerateResource.cache
+C:\Users\HuyNef\Downloads\Reversi_AI\Reversi\Reversi\obj\Debug\Reversi.csproj.CoreCompileInputs.cache
+C:\Users\HuyNef\Downloads\Reversi_AI\Reversi\Reversi\obj\Debug\Reversi.exe
+C:\Users\HuyNef\Downloads\Reversi_AI\Reversi\Reversi\obj\Debug\Reversi.pdb
